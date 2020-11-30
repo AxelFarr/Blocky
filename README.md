@@ -14,6 +14,7 @@ The map is made with a combination of rules and randomness.
 
 ## A bit of gameplay
 You have an inventory, and every piece of material that you mine gets in there. With the good combination of wood you can make a pickaxe and hence mine rocks ! 
+
 ![The inventory](images/invCap.PNG "The inventory")
 
 ## License
